@@ -1,0 +1,1325 @@
+
+    Able companion
+    Absorb storm
+    Accursed Souls
+    Acid arrow
+    Acid mire
+    Acid orb
+    Adversarial song
+    Aegis bolt
+    Aegis of assault
+    Aegis of ensnarement
+    Aegis of lost souls
+    Aegis of shielding
+    Aggravating force
+    All soul's ball
+    Allegro
+    Allied rhythm
+    Alter fate
+    Altered Luck
+    Animate dead
+    Arc lightning
+    Arcane anchor
+    Arcane bolt
+    Arcane defiling
+    Arcane deflection
+    Arcane insight
+    Arcane lance
+    Arcane springboard
+    Arcane transport
+    Arcane whirlwind
+    Arcing fire
+    Armathor's step
+    Armor of Agathys
+    Armor of winter's grasp
+    Arms of Hadar
+    Arrow of destiny
+    Arrow of ill omen
+    Arrow of warning
+    Assault of fiery cuts
+    Assured recovery
+    Astral wasp
+    At your expense
+    Aura of reverence
+    Balance of fortune
+    Ballad of the zombie king
+    Bardic lore
+    Beast switch
+    Beguiling ballad
+    Beguiling strands
+    Bewitching charm
+    Bewitching gaze
+    Bigby's Icy Grasp
+    Binding light
+    Binding rhyme
+    Blade bolt
+    Blade of judgment
+    Blastback swipe
+    Blazing lunge
+    Blazing pursuit
+    Blazing starfall
+    Blinding aegis
+    Blink assault
+    Blink zone
+    Blunder
+    Bond of malediction
+    Booming blade
+    Borrowed ascension
+    Borrowed confidence
+    Boundless
+    Bravado strike
+    Break enchantment
+    Breath of night
+    Burdening dirge
+    Burning blade
+    Burning hands
+    Burning mantle
+    Burning spray
+    Burning weapons
+    Caiphon's leap
+    Canon of avoidance
+    Chains of Levistus
+    Chameleon's mask
+    Channeling shield
+    Chant of accuracy
+    Chant of bad fortune
+    Charger's call
+    Charm of hearts
+    Charm of misplaced wrath
+    Charm of protection
+    Charm of the defender
+    Cherub's song
+    Chill strike
+    Chilled blade
+    Chilling blow
+    Chilling cloud
+    Chillsong stroke
+    Chord of resilience
+    Chorus of recovery
+    Chorus of vitality
+    Chromatic bolt
+    Clarion call
+    Climactic chord
+    Clockwork Precision
+    Cloud of daggers
+    Cloud of Flies
+    Color spray
+    Compulsion
+    Concerted effort
+    Concussive echo
+    Conduit of ice
+    Confusing chorus
+    Confusion
+    Conjure fortification
+    Constrictor's strike
+    Consuming Ray
+    Contagion
+    Corralling song
+    Corrosive Mist
+    Corrosive ruin
+    Counterpoint
+    Couplet of deceptive weakness
+    Crack the World
+    Crackling burst
+    Crackling Fire
+    Craven chorus
+    Crescendo of victory
+    Crown of stars
+    Cruel fate
+    Cunning ferocity
+    Cunning Prevaricator
+    Curse of the dark dream
+    Cursebite
+    Cutting words
+    Dance of biting wind
+    Dance of the sword
+    Darkening flame
+    Darksword bolt
+    Darkworm feast
+    Daunting presence
+    Dazing rebuke
+    Dazzling display
+    Dazzling ray
+    Death grip
+    Death smoke
+    Death's blade
+    Death's resurgence
+    Decree of Khirad
+    Deep freeze
+    Deflect attention
+    Delban's Deadly Attention
+    Demoralizing dirge
+    Devil's trade
+    Diabolic grasp
+    Dig
+    Dimension switch
+    Dimensional bond
+    Dimensional cleave
+    Dimensional journey
+    Dimensional step
+    Dimensional thunder
+    Dimensional vortex
+    Dimensional warding
+    Dimensional warp
+    Dire radiance
+    Disorienting ditty
+    Disrupt undead
+    Dissonant imbuement
+    Dissonant strain
+    Distracting shout
+    Dragon's teeth
+    Dragonfrost
+    Drain speed
+    Dramatic intercession
+    Dramatic shift
+    Dread presence
+    Dread star
+    Dreadful word
+    Drums of the wild hunt
+    Dual lightning strike
+    Earthen grasp
+    Earthquake strike
+    Echoes in time
+    Echoes of the guardian
+    Echoing dirge
+    Echoing roar
+    Echoing steps
+    Echoing weapon
+    Eldritch blast
+    Eldritch bolt
+    Eldritch chains
+    Eldritch quagmire
+    Eldritch speed
+    Eldritch strike
+    Electrified lash
+    Elegy of the undefeated
+    Elegy unwritten
+    Elemental aegis
+    Elemental bolt
+    Elemental foible
+    Emerald eye
+    Empowering lightning
+    Enchantment ward
+    Encircling dance
+    Enduring struggle
+    Enemies abound
+    Energy strobe
+    Energy theft
+    Enervating slash
+    Ensnaring bolts
+    Entangling opening
+    Entombing earth
+    Erupting Flare
+    Ethereal Chill
+    Ethreal Sidestep
+    Euphonic Bow
+    Expeditious retreat
+    Explosive pyre
+    Exposure of weakness
+    Eyebite
+    Eyes of the spider queen
+    Eyes of the vestige
+    Fate's Frayed Thread
+    Face of death
+    Falcon's mark
+    Familiar harrier
+    Familiar's call
+    Fast friends
+    Fate-spurned foe
+    Fated vulnerability
+    Fear no elements
+    Fearless example
+    Feather fall
+    Fettering aegis
+    Fevered certainty of Caiphon
+    Fey bargain
+    Feywild grace
+    Fire mantle
+    Fire shield
+    Fire Shroud
+    Fireball
+    Firelasher's lunge
+    Firemetal shot
+    Fist of force
+    Flame cyclone
+    Flameburst armor
+    Flames of Phlegethos
+    Flamewall strike
+    Flaming sphere
+    Flare
+    Flash of distraction
+    Flickering venom
+    Float
+    Flowing evasion
+    Focused sound
+    Foe to frog
+    Foesnare
+    Foolhardy fighting
+    Force orb
+    Forcecage
+    Forceful conduit
+    Forceful dismissal
+    Forceful rebuke
+    Fortune Binding
+    Fortune's reversal
+    Fountain of flame
+    Fox's feint
+    Fraught with failure
+    Freezing burst
+    Freezing cloud
+    Freezing swordburst
+    Frenzied rhythm
+    Frigid blade
+    Frigid Darkness
+    Frost backlash
+    Frostwind blade
+    Funeral dirge
+    Gale wall
+    Ghost sound
+    Ghost step
+    Ghost walk
+    Gift to Avernus
+    Glib tongue
+    Glimpse the future
+    Glitterdust
+    Glorious presence
+    Glow of Ulban
+    Grandmaster dimensional cleave
+    Grasp of Ragnorra
+    Grasp of the grave
+    Grasp of the Iron Tower
+    Grasping shadows
+    Grave Caller
+    Greater chilled blade
+    Greater dimensional step
+    Greater echoing weapon
+    Greater flash of distraction
+    Greater ice storm
+    Greater ringing weapon
+    Greater seek weakness
+    Greenflame blade
+    Grim shadow
+    Guardian blades
+    Guiding strike
+    Halo of thorns
+    Hand of blight
+    Harmony of the two
+    Haste
+    Haunting tune
+    Healing infusion: Curative admixture
+    Healing infusion: Resistive formula
+    Healing infusion: Shielding elixir
+    Hellfire blast
+    Hellfire Soul
+    Hellish rebuke
+    Hellspike assault
+    Herbal healing
+    Hero's beacon
+    Heroic interjection
+    Hex of madness
+    Hideous laughter
+    Hole in the mind
+    Horrid whispers
+    Horrifying truth
+    Host of shields
+    Hunter's pursuit
+    Hunter's tune
+    Hymn of the daring rescue
+    Hypnotic swordplay
+    Hypnotism
+Ice storm
+    Icebound sigil
+    Iceshard shot
+    Icy Rays
+    Icy skewer
+    Icy sweep
+    Icy terrain
+    Idyll of calm
+    Illuminating stars
+    Illusory ambush
+    Illusory erasure
+    Illusory obstacles
+    Illusory wall
+    Impelling force
+    Incendiary sword
+    Increasing the tempo
+    Inescapable fate
+    Insightful shot
+    Inspire competence
+    Inspiring refrain
+    Instant friends
+    Insult of passivity
+    Intimidating visage
+    Invincible rampage
+    Invisibility
+    Invisible troupe
+    Irresistible dance
+    Isolating aegis
+    Isolating slam
+    Jinx shot
+    Jump
+    Kaleidoscopic burst
+    Lashing asp
+    Leave it dead
+    Legion's hold
+    Lesser dimensional step
+    Lesser flash of distraction
+    Lesser ringing weapon
+    Life bind
+    Life Siphon
+    Lifetaker
+    Light
+    Lightning bolt
+    Lightning bolt charge
+    Lightning breath
+    Lightning clash
+    Lightning lure
+    Lightning serpent
+    Lightning strike
+    Like a feather
+    Lingering lightning
+    Linked fortunes
+    Llymic's Frigid Prison
+    Lure of Gibbeth
+    Luring strike
+    Mage hand
+    Maggot Conduit
+    Magic missile
+    Magic weapon (power)
+    Maiden's waking
+    Majestic word
+    Malevolent mischief
+    Malicious Guide Star
+    Mantle of unity
+    Mark of the hound
+    Marksman's vision
+    Masks of menace
+    Master dimensional cleave
+    Maw of Atropus
+    Maze of mirrors
+    Melf's minute meteors
+    Memory to mist
+    Menacing thunder
+    Mercurial Form
+    Meteor swarm
+    Mind game
+    Mindsap maneuver
+    Mirrorblade army
+    Mirrored entourage
+    Misdirected mark
+    Mists of madness
+    Mocking epigram
+    Moment of Escape
+    Mordenkainen's guardian hound
+    Mordenkainen's lucubration
+    Musical chairs
+    Mythal recovery
+    Necromantic disruption
+    Nightmare eruption
+    Note of aggression
+    Ode to sacrifice
+    Ode to the daring
+    Oni's gift
+    Orb of doom
+    Orbmaster's incendiary detonation
+    Pandorym's cry
+    Pandorym's Prism
+    Perfect pitch
+    Phantasmal assailant
+    Phantasmal assault
+    Phantasmal terrain
+    Phantom bolt
+    Phantom cage
+    Phantom chasm
+    Pipes of Winter
+    Planar shock
+    Pounding rhythm
+    Prescient warning
+    Prestidigitation
+    Price of ensnarement
+    Project vitality
+    Prophecy of Zhudun
+    Prophesied strike
+    Prophetic action
+    Protection from missiles
+    Punishing eye
+    Purifying wound
+    Queen's clemency
+    Quick steel dance
+    Quickling stride
+    Racing Fire of Ulban
+    Radiant pillar
+    Radiant shield
+    Rain of starlight
+    Rally the spectral host
+    Ray of enfeeblement
+    Ray of frost
+    Reactive wards
+    Reaper's challenge
+    Recitation of foreknowledge
+    Refocus
+    Rejuvenating strike
+    Repelling shield
+    Resistance (power)
+    Resounding war cry
+    Resourceful Magician
+    Restless dead
+    Reverberating shot
+    Revitalizing incantation
+    Rewrite the future
+    Rhyme of fire
+    Rhyme of the blood-seeking blade
+    Rhythm of disorientation
+    Ringing weapon
+    Rolling thunder
+    Rotting doom
+Saga of foretold doom
+Saga of rivalry
+Saga of the harrying foe
+Saga of vengeance
+Satire of bravery
+Satire of evasion
+Satire of fortune
+Satire of leadership
+Satire of prowess
+Savage transformation
+Savior's song
+Scare
+Scathing rebuke
+Scattering shock
+Scorching burst
+Scorpion's claw strike
+Scouring weapon
+Sculpt fate
+Second chances
+Seek weakness
+Shade twin
+Shadow claws
+Shadow snake lunge
+Shadow warp
+Shared Agony
+Shared fortune
+Sharp retort
+Shatterblade
+Shield
+Shield of the besieged tower
+Shielding cube
+Shielding fire
+Shock sphere
+Shockwave strike
+Shout of evasion
+Shout of triumph
+Silver lightning assault
+Silverlight strike
+Silversteel veil
+Simple animation
+Slash and burn
+Slayer's song
+Sleep
+Slippery feet
+Sloth strike
+Snake strike
+Song of conquest
+Song of courage
+Song of defense
+Song of discord
+Song of duplicitous allure
+Song of flagging strength
+Song of liberation
+Song of recovery
+Song of speed
+Song of storms
+Song of sublime snowfall
+Song of summons
+Song of the deadly dancer
+Song of the new dawn
+Song of the soul harvest
+Song of transition
+Soul puppets
+Soul step
+Sound strike
+Spectral hound
+Spectral image
+Spectral Vanguard
+Spellbind
+Spellbinder's gift
+Spider Queen's Caress
+Spider's leap
+Spike wire
+Spikes of agony
+Spirit rend
+Spiteful glamor
+Spook
+Sprightly rhythm
+Spring to action
+Sprite war call
+Staggering note
+Star shackles
+Starshine upon the People
+Static Shock
+Steel tempest
+Stinking Cloud
+Stirring shout
+Stone blood
+Storm pillar
+Storm walk
+Strictures of fortune
+Stride of the gallant
+Strike from legend
+Strike up the dance
+Strings of fate
+Suggestion
+Summon abyssal maw
+Summon angel wretch
+Summon arrowhawk
+Summon imp
+Summon iron cohort
+Summon magma beast
+Summon shadow serpent
+Summon shadow servant
+Surge of valor
+Surprising transposition
+Sweeping frostblade
+Sword burst
+Sword chaser assault
+Sword duel
+Sword of sigils
+Sword of soul rot
+Swordmage's decree
+Symphony of misfortune
+Symphony of the dark court
+Synchronicity
+Tasha's forcible conscription
+Taunting phantoms
+Theft of life
+Thunder blade
+Thunder's calling
+Thunderclap strike
+Thundering armor
+Thundering burst
+Thundering roar
+Thundering vortex
+Thunderstaff
+Thunderwave
+Timeless trek in Mithrendain
+Timely distraction
+Tome of transposition
+Tomebound ooze
+Transference tune
+Transposing lunge
+Trickster's healing
+Troll rampage
+True alter fate
+True prescient warning
+True urge to victory
+Tune of ice and wind
+Turning the tide
+Twist of space
+Tyrannical Threat
+Tyranny of flame
+Unbalancing Force
+Unerring parry
+Unerring vision
+Unicorn's charge
+Unicorn's touch
+Unluck
+Unraveling dart
+Unseelie sprites
+Unseen gauntlet
+Urge to victory
+Use magic item
+Vampiric embrace
+Vanishing blade
+Variable defense
+Veil
+Venomous Webs
+Verse of triumph
+Vestige of Khaeleth
+Vestige of Mount Vaelis
+Vestige of Ugar
+Vestige of Xandor
+Vestige's Calamity
+Vicious mockery
+Victim of the Feywild
+Vigorous Cadence
+Virtuoso of misfortune
+Vision distortion
+Visions of avarice
+Visions of ruin
+Wail of Anguish
+Wall of sound
+Wand coupling
+War proxy
+War song strike
+Ward of brilliance
+Ward of scales
+Warding chaos
+Watchful strike
+Watery double
+Waves of languor
+Weal and woe
+Web
+Well of Death
+Whirling blade
+Whirling threat
+Whispers of the Dream King
+White wolves
+Winged horde
+Winter's wrath
+Witch bolt
+Witch's reversal
+Witchfire
+Wizard's escape
+Wizard's fury
+Word of life
+Word of mystic warding
+Word of vulnerability
+Words of friendship
+Words of protective fate
+Worms
+Worms of Minauros
+Wracking radiance
+Wrath of the arctic wind
+Wrath of wolfstone
+Your glorious sacrifice
+Zephyr of the barren sands
+Astral Seal
+Battle Cleric's Weapon Mastery
+Blessing of Battle
+Blessing of Knowledge
+Blessing of Law
+Blessing of Light
+Blessing of the Wild
+Blessing of Wrath
+Brand of the Moon
+Brand of the Sun
+Burden of Earth
+Death's Shadow
+Earth's Endurance
+Fell Strike
+Gaze of Defiance
+Graceful Switch
+Icon of Fear
+Invigorating Assault
+Lance of Faith
+Priest's Shield
+Recovery Strike
+Righteous Brand
+Sacred Flame
+Shielding Strike
+Silvery Arrow
+Singing Strike
+Sonnilor's Hammer
+Storm Hammer
+Tenebrous Blessing
+Weapon of Divine Protection
+Create Water
+Eye of the Vulture
+Fey Sight
+Inspire Dread
+Knowledge to Spread
+Life and Light
+Moon Weapon
+Outmaneuver
+Soothing Light
+Stay the Hand of Death
+Step Together
+Stone Speak
+Stone's Resolve
+Storm Surge
+Sudden Inspiration
+Sun's Glow
+True Strike
+Bane
+Cause Fear
+Divine Glow
+Dread Revelation
+Earthen Hail
+Exacting Utterance
+Faerie-flame Strike
+Healing Strike
+Illuminating Blow
+Inevitable Doom
+Mighty Hew
+Numinous Shield
+Prophetic Guidance
+Ringing Blow
+Shield Bearer
+Sun Burst
+Sundering Might
+Thought Twister
+Thundering Steel
+Vengeful Flare
+War Priest's Strike
+Weapon of Enforced Serenity
+Wrathful Thunder
+Astral Condemnation
+Avenging Flame
+Beacon of Hope
+Cascade of Light
+Curse of Misfortune
+Font of Tears
+Gift of Incomparable Strength
+Guardian of Faith
+Horde of Spiders
+Inflict Light Wounds
+Inflict Wounds
+Lesser Aspect of Wrath
+Levy of Judgement
+Moment of Glory
+Nimbus of Holy Shielding
+Shield of the Gods
+Weapon of Astral Flame
+Angelic Witnesses
+Armour of Faith
+Blackened Soul
+Bless
+Cure Light Wounds
+Divine Aid
+Divine Skill
+Holy Vestments
+Life Transference
+Resurgent Strength
+Return from Death's Door
+Sacrificial Aegis
+Sanctuary
+Shield of Faith
+Veil of Darkness
+Allied Accuracy
+Astral Flare
+Blazing Beacon
+Conquering Blow
+Command
+Daunting Light
+Death Surge
+Destined Due
+Focus of Cascading Power
+Granite Shield
+Hammer of the Gods
+Hammering Wind
+Heartening Strike
+Hymn of Resurgence
+Inspire Fanaticism
+Inspired Steel
+Light of Arvandor
+Lost Love
+Moonshadow Blow
+Resurgent Sun
+Sacred Shielding
+Split the Sky
+Words Are Not Enough
+Augment of War
+Consecrated Ground
+Divine Castigation
+Divine Juggernaut
+Hallowed Advance
+Halo of Consequence
+Inspire Fervor
+Iron to Glass
+Revealing Light
+Rune of Peace
+Servitude of Death
+Spiritual Weapon
+Weapon of the Gods
+Bastion of Health
+Blades of Holy Fire
+Cure Serious Wounds
+Divine Favour
+Divine Vigor
+Gift of Good Fortune
+Gravesite
+Holy Celerity
+Seized Destiny
+Soul Cage
+Spirit of Healing
+Stream of Life
+Walk Among the Wounded
+Awe Strike
+Blessing of Dust
+Bolts of Warding
+Break the Spirit
+Denunciation
+Dreadful Warrior
+Fey Beguiling
+Forgemaster's Flame
+Peacemaker's Light
+Price of Violence
+Raven's Talon
+Searing Brand
+Searing Light
+Strengthen the Faithful
+Strength of Spirit
+Strike of Judgement
+Tactical Strike
+Thought Storm
+Warning Strike
+Wrathful Lightning
+Zealous Sanction
+Astral Defenders
+Blade Barrier
+Champion of the Gods
+Crucial Resurgence
+Crushing Despair
+Dismissal
+Divine Fury
+Divine Power
+Divine Punishment
+Divine Surge
+Flame Strike
+Pariah's Curse
+Rebuke Violence
+Vengeful Ghosts
+Astral Refuge
+Battle Surge
+Godsight
+Healer's Balm
+Knights of Unyielding Valor
+Mass Cure Light Wounds
+Phantom Vigor
+Prophetic Protection
+Radiant Armour
+Recall Ally
+Reverent Mettle
+Sacred Beneficence
+Shielding Word
+Transcendent Advisor
+Umbral Soul
+Wall of Shields
+Word of Vigor
+Angel's Rescue
+Awakening Sun
+Arc of the Righteous
+Call to the Dark
+Chains of Blazing Light
+Crown of Light
+Deadly Lure
+Divine Beacon
+Earthen Vanguard
+Glimmer Strike
+Inspire Terror
+Inspiring Strike
+Invocation of War
+Mantle of Glory
+Ominous Portent
+Plague of Doom
+Promise of Victory
+Remorse
+Roar of Thunder
+Silverlight Bow
+Thought Crusher
+Thunderous Blow
+Union of Three Fates
+Weapon of Peace Foretold
+Aura of Astral Radiance
+Brilliant Censure
+Divine Reprisal
+Drain Life
+Full Eclipse
+Holy Spark
+Ivory Rampart
+Levy of Damnation
+Manifestation of Wrath
+Penance of Blood
+Purifying Fire
+Ruinous Kismet
+Sacred Armistice
+Seal of Warding
+Summon Black Reaper
+Tree of Creation
+Wrath of the Faithful
+Air Walk
+Astral Shield
+Chosen Servant
+Cloak of Courage
+Cloak of Peace
+Cure Critical Wounds
+Divine Armour
+Eternal Barrier
+Hallowed Ground
+Healing Circle
+Radiant Beams
+Sphere of Shadow
+Unexpected Return
+Bastion of Fanaticism
+Blinding Light
+Brilliant Idea
+Death's Call
+Demand Obedience
+Divine Phalanx
+Enthrall
+Gleaming Strike
+Halo of Peace
+Harmony of Blades
+Honourable Challenge
+Life-Stealing Light
+Malediction
+Obsidian Shield
+Prescient Boon
+Sentinel Strike
+Sever the Source
+Starry Snare
+Strength of the Sun
+Thunderous Word
+Violence Betrayed
+Winds of Fury
+Beacon of Doom
+Breath of the Raven Queen
+Fire Storm
+Gaze of the Sun
+Greater Augment of War
+Holy Wrath
+Indomitable Spirit
+Knight of Glory
+Miraculous Intervention
+Moment of Peace
+Necrotic Transference
+Realm of Battle
+Shackles of the Grave
+Supernal Radiance
+Unconquerable Spirit
+Wrathful Judgement
+Abjure the Chosen
+Angel of the Eleven Winds
+Clarion Call of the Astral Sea
+Cloud Chariot
+Death for Death
+Death Shield
+Heal
+Mass Cure Serious Wounds
+Prayer Made Real
+Prophetic Fervour
+Purify
+Ramparts of Light
+Revive
+Sealing Death's Door
+Spirit of Health
+Astral Blades of Death
+Awful to Behold
+Death's Touch
+Divine Censure
+Divine Fervour
+Divine Retribution
+Earthen Chains
+Haunting Strike
+Healing Torch
+Moontide
+Mortal Terror
+Overwhelming Light
+Rebuke the Wrathful
+Relentless Spirit
+Revitalizing Shove
+Shared Secrets
+Spirit Flame
+Spirits of Victory
+Thunder of Justice
+Word of Deterrence
+Call to the Hungry Ghosts
+Divine Battle Lord
+Divine Intervention
+Divine Reaping
+Flames of Torment
+Hopekiller
+Life Lanterns
+Nimbus of Doom
+Prayer of Victory
+Righteous Might
+Sacred Word
+Seal of Binding
+Seal of Protection
+Soulshock Field
+Subjugating Strike
+Auspicious Foresight
+Brutal Grace
+Divine Contempt
+Doom of the Unworthy
+Earthen Fortress
+Healer's Reproof
+Light of the First Dawn
+Punishing Strike
+Sacrificial Healing
+Scourge of the Unworthy
+Scouring Smite
+Staggering Moonglow
+Strikes of Woe and Weal
+Stroke of Ruin
+Sublime Light
+Sunburst
+Sundered Bravery
+Thought Destroyer
+Thunder of the Dawn War
+Valorous Charge
+Weapon of Final Peace
+Astral Exile
+Astral Storm
+Breath of the Stars
+Enforced Surrender
+Chains of the Peacemaker
+Godstrike
+Ordained Victory
+Stern Judgement
+Ravage
+Visage of the Gods
+Divine Fortune
+Favour of the Gods
+Healer's Mercy
+Healing Word
+Holy Cleansing
+Negate Healing
+Punish the Profane
+Resurrection
+Smite Undead
+Subversive Word
+Turn Undead
+Call of the Beast
+Chill Wind
+Dynamic Assault
+Fire Hawk
+Flame Seed
+Grasping Claws
+Grasping Tide
+Jolt of Lightning
+Magic Stones
+Pounce
+Reap the Harvest
+Savage Rend
+Spirit Briar
+Storm Spike
+Swarming Locusts
+Thorn Whip
+Call Forth the Spirit Pack
+Close to the Kill
+Cull the Herd
+Darting Bite
+Frost Flash
+Gust of Wind
+Insect Swarm
+Scattered Form
+Stinging Cloud
+Thorn Spray
+Twisting Vines
+Wall of Smoke
+Earth Roots
+Faerie Fire
+Fires of Life
+Fog of Insects
+Form of the Primeval Ape
+Form of the Primeval Bear
+Form of the Primeval Boar
+Heat Metal
+Lightning Arc
+Savage Frenzy
+Shillelagh
+Summon Fierce Boar
+Summon Giant Toad
+Summon Pack Wolf
+Vexing Overgrowth
+Whirlwind of Sand
+Wind Prison
+All-Encompassing Nature
+Barkskin
+Bear's Strength
+Cat's Grace
+Dust Eddy
+Elk's Fortitude
+Ferocious Transformation
+Fleet Pursuit
+Form of the Sprinting Elk
+Lesser Restoration
+Obscuring Mist
+Resist Energy
+Seed of Healing
+Skittering Sneak
+Sudden Bite
+Verdant Bounty
+Warding Wind
+Battering Claws
+Call Lightning
+Feral Harrier
+Flowing Swarm
+Ironbreaker's Claws
+Predator's Flurry
+Roar of the Unbowed Beast
+Thorn Castle
+Tundra Wind
+Wind Wall
+Clinging Drones
+Destructive Harvest
+Hobbling Rend
+Hunger of the Land
+Life Blood Harvest
+Primal Spider
+Primal Wolverine
+Roar of Terror
+Summon Fire Beetle
+Summon Guard Drake
+Summon Shadow Ape
+Summon Stalking Panther
+Vine Serpents
+Wall of Thorns
+Black Harbinger
+Camouflage Cloak
+Chant of Sustenance
+Creeping Vines
+Eagle's Splendour
+Leaf Wall
+Owl's Wisdom
+Rebuking Thorns
+Rodent's Agility
+Serpent's Cunning
+Stalker's Eyes
+Swarm Dispersal
+Treetop Lurker
+Blood-Spray Bite
+Feast of Fury
+Latch On
+Plague of Locusts
+Poison Sting
+Swirling Winds
+Tremor
+Wind of Blades
+Death's Bounty
+Entangle
+Feral Mauling
+Flurry of Stingers
+Primal Serpent
+Primal Wolf
+Reap Vitality
+Sudden Overgrowth
+Summon Crocodile
+Summon Great Eagle
+Summon Proud Bear
+Sunbeam
+Winter's Withering
+Writhing Earth
+Animal Clan
+Animal Shapes
+Armour of the Wild
+Bountiful Vigor
+Cleansing Rain
+Clear the Chaff
+Diving Fin
+Feywild Sojourn
+Goodberry
+Roots of Rescue
+Swarm Swap
+Winter Storm
+Claws of Retribution
+Expose Weakness
+Floating Death
+Oak Skewer
+Rending Claws
+Thunder Crash
+Tidal Surge
+Twin-Horned Bolt
+Baleful Polymorph
+Briar Thicket
+Call Lightning Storm
+Devouring Flies
+Devouring Ice
+Envenomed Steel
+Primal Boar
+Primal Crocodile
+Revitalizing Pounce
+Slashing Claws
+Stonemetal
+Summon Lightning Drake
+Summon Razorclaw Bat
+Summon Savage Tiger
+Wrath of the Storm Chaser
+Darting Viper
+Dryad's Trees
+Elusive Wind
+Falcon's Flight
+Feral Recovery
+Howl of the Wild
+Insect Plague
+Nature's Armour
+Phantom Beast
+Primal Restoration
+Wall of Stone
+Cloud of Sparrows
+Devouring Swarm
+Hungry for the Kill
+Inexorable Smash
+Windstorm
+Lightning Cascade
+Scavenger's Prize
+Shifting Rake
+Torrential Storm
+Diligent Reaping
+Entangling Thorns
+Lunge and Vanish
+Primal Bear
+Primal Lion
+Pummeling Hail
+Rapid Growth
+Seeds of Destruction
+Summon Guardian Briar
+Summon Swamp Behemoth
+Summon Thunder Bison
+Tremors
+Winter Hailstorm
+Fey Circles
+Phantom Beast
+Protective Whirlwind
+Sky Talon
+Stonebones
+Tortoise Shell
+Touch of Renewal
+Tree of Life
+Unseen Beast
+Unyielding Roots
+Blinding Swarm
+Fearsome Fangs
+Grasping Earth
+Primal Roar
+Rain of Fire Needles
+Razor Snare
+Stormburst
+Strength of the Hunt
+Avian Cloud
+Brittle Frost Blade
+Creeping Doom
+Ferocious Maul
+Fey Lure
+Primal Ape
+Primal Panther
+Primal Storm
+Primal Tiger
+Rejuvenating Harvest
+Summon Proud Mastodon
+Summon Razorclaw Behemoth
+Behemoth Stampede
+Death Fangs
+Disorientating Drone
+Explosive Wind
+Howling Doom
+Leaping Rake
+Polar Blast
+Thunder Claw
+Blinding Blizzard
+Corroding Weapon
+Earth Maw
+Gaze of the Beast
+Hunter's Heart
+Lifeleech Thorns
+Primal Archetype
+Storm Weapon
+Summon Storm Behemoth
+Whirling Firestorm
+Air Spirit
+Call the Spirits
+Combined Attack
+Dire Bear Stamina
+Dire Wolf Knockdown
+Nature's Growth
+Restore Life
+Senses of the Wild
+Summon Natural Ally
+Verdant Touch
+Vine Rope
+Wild Shape
+Zephyr Carry
+
+
+
